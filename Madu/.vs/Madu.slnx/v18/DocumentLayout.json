@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|c:\\users\\aazze\\source\\repos\\praktiline-t-madu-uss-\\madu\\madu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|solutionrelative:madu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|c:\\users\\aazze\\source\\repos\\praktiline-t-madu-uss-\\madu\\madu\\heliefektid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|solutionrelative:madu\\heliefektid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|c:\\users\\aazze\\source\\repos\\praktiline-t-madu-uss-\\madu\\madu\\edetabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|solutionrelative:madu\\edetabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|c:\\users\\aazze\\source\\repos\\praktiline-t-madu-uss-\\madu\\madu\\m\u00E4nguseaded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|solutionrelative:madu\\m\u00E4nguseaded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|c:\\users\\aazze\\source\\repos\\praktiline-t-madu-uss-\\madu\\madu\\kaart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|solutionrelative:madu\\kaart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|c:\\users\\aazze\\source\\repos\\praktiline-t-madu-uss-\\madu\\madu\\uss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|solutionrelative:madu\\uss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|c:\\users\\aazze\\source\\repos\\praktiline-t-madu-uss-\\madu\\madu\\sund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|solutionrelative:madu\\sund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|c:\\users\\aazze\\source\\repos\\praktiline-t-madu-uss-\\madu\\madu\\toit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|solutionrelative:madu\\toit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|c:\\users\\aazze\\source\\repos\\praktiline-t-madu-uss-\\madu\\madu\\punkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|solutionrelative:madu\\punkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Heliefektid.cs",
+              "DocumentMoniker": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Heliefektid.cs",
+              "RelativeDocumentMoniker": "Madu\\Heliefektid.cs",
+              "ToolTip": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Heliefektid.cs",
+              "RelativeToolTip": "Madu\\Heliefektid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T02:17:56.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edetabel.cs",
+              "DocumentMoniker": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Edetabel.cs",
+              "RelativeDocumentMoniker": "Madu\\Edetabel.cs",
+              "ToolTip": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Edetabel.cs",
+              "RelativeToolTip": "Madu\\Edetabel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T02:14:07.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kaart.cs",
+              "DocumentMoniker": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Kaart.cs",
+              "RelativeDocumentMoniker": "Madu\\Kaart.cs",
+              "ToolTip": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Kaart.cs",
+              "RelativeToolTip": "Madu\\Kaart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T02:12:35.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "M\u00E4nguSeaded.cs",
+              "DocumentMoniker": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\M\u00E4nguSeaded.cs",
+              "RelativeDocumentMoniker": "Madu\\M\u00E4nguSeaded.cs",
+              "ToolTip": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\M\u00E4nguSeaded.cs",
+              "RelativeToolTip": "Madu\\M\u00E4nguSeaded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T02:10:48.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Toit.cs",
+              "DocumentMoniker": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Toit.cs",
+              "RelativeDocumentMoniker": "Madu\\Toit.cs",
+              "ToolTip": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Toit.cs",
+              "RelativeToolTip": "Madu\\Toit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T01:41:50.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Punkt.cs",
+              "DocumentMoniker": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Punkt.cs",
+              "RelativeDocumentMoniker": "Madu\\Punkt.cs",
+              "ToolTip": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Punkt.cs",
+              "RelativeToolTip": "Madu\\Punkt.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T01:27:00.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Uss.cs",
+              "DocumentMoniker": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Uss.cs",
+              "RelativeDocumentMoniker": "Madu\\Uss.cs",
+              "ToolTip": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Uss.cs",
+              "RelativeToolTip": "Madu\\Uss.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T01:51:54.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sund.cs",
+              "DocumentMoniker": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Sund.cs",
+              "RelativeDocumentMoniker": "Madu\\Sund.cs",
+              "ToolTip": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Sund.cs",
+              "RelativeToolTip": "Madu\\Sund.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T01:25:59.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Program.cs",
+              "RelativeDocumentMoniker": "Madu\\Program.cs",
+              "ToolTip": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Program.cs",
+              "RelativeToolTip": "Madu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T01:24:01.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

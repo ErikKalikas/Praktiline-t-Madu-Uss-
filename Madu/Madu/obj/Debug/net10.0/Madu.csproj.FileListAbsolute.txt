@@ -1,0 +1,14 @@
+C:\Users\aazze\source\repos\Praktiline-t-Madu-Uss-\Madu\Madu\bin\Debug\net10.0\Madu.exe
+C:\Users\aazze\source\repos\Praktiline-t-Madu-Uss-\Madu\Madu\bin\Debug\net10.0\Madu.deps.json
+C:\Users\aazze\source\repos\Praktiline-t-Madu-Uss-\Madu\Madu\bin\Debug\net10.0\Madu.runtimeconfig.json
+C:\Users\aazze\source\repos\Praktiline-t-Madu-Uss-\Madu\Madu\bin\Debug\net10.0\Madu.dll
+C:\Users\aazze\source\repos\Praktiline-t-Madu-Uss-\Madu\Madu\bin\Debug\net10.0\Madu.pdb
+C:\Users\aazze\source\repos\Praktiline-t-Madu-Uss-\Madu\Madu\obj\Debug\net10.0\Madu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aazze\source\repos\Praktiline-t-Madu-Uss-\Madu\Madu\obj\Debug\net10.0\Madu.AssemblyInfoInputs.cache
+C:\Users\aazze\source\repos\Praktiline-t-Madu-Uss-\Madu\Madu\obj\Debug\net10.0\Madu.AssemblyInfo.cs
+C:\Users\aazze\source\repos\Praktiline-t-Madu-Uss-\Madu\Madu\obj\Debug\net10.0\Madu.csproj.CoreCompileInputs.cache
+C:\Users\aazze\source\repos\Praktiline-t-Madu-Uss-\Madu\Madu\obj\Debug\net10.0\Madu.dll
+C:\Users\aazze\source\repos\Praktiline-t-Madu-Uss-\Madu\Madu\obj\Debug\net10.0\refint\Madu.dll
+C:\Users\aazze\source\repos\Praktiline-t-Madu-Uss-\Madu\Madu\obj\Debug\net10.0\Madu.pdb
+C:\Users\aazze\source\repos\Praktiline-t-Madu-Uss-\Madu\Madu\obj\Debug\net10.0\Madu.genruntimeconfig.cache
+C:\Users\aazze\source\repos\Praktiline-t-Madu-Uss-\Madu\Madu\obj\Debug\net10.0\ref\Madu.dll
