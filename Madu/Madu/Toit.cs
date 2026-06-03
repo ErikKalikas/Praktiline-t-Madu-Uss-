@@ -22,8 +22,15 @@ namespace Madu
         {
             int x = rnd.Next(2, ekraaniLaius - 2);
             int y = rnd.Next(2, ekraaniKõrgus - 2);
-            Asukoht = new Punkt(x, y, '@'); // Toit näeb välja nagu '@'
+            Asukoht = new Punkt(x, y, '█'); 
+
+            
+            Console.ForegroundColor = ConsoleColor.DarkRed;
+
             Asukoht.Joonista();
+
+           
+            Console.ResetColor();
         }
     }
 }

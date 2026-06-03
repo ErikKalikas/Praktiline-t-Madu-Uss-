@@ -11,7 +11,7 @@
 
             Console.SetWindowSize(seaded.Laius + 2, seaded.Kõrgus + 2);
             Kaart kaart = new Kaart(seaded.Laius, seaded.Kõrgus);
-            Uss uss = new Uss(10, 10, 3);
+            Uss uss = new Uss(seaded.Laius / 2, seaded.Kõrgus / 2, 3);
             Toit toit = new Toit(seaded.Laius, seaded.Kõrgus);
             int skoor = 0;
 
@@ -42,6 +42,13 @@
 
                 // Kokkupõrge seinaga (takistusega)
                 if (kaart.Takistused.Any(t => t.X == pea.X && t.Y == pea.Y))
+                {
+                    Heliefektid.MängiKaotust();
+                    break;
+                }
+
+                
+                if (uss.KasPõrkasKokkuEndaga())
                 {
                     Heliefektid.MängiKaotust();
                     break;

@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\",
+  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|c:\\users\\aazze\\source\\repos\\praktiline-t-madu-uss-\\madu\\madu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|solutionrelative:madu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF598212-DFA0-87DD-5F5D-1C188AF31EA9}|Madu\\Madu.csproj|c:\\users\\opilane\\source\\repos\\praktiline-t-madu-uss-\\madu\\madu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF598212-DFA0-87DD-5F5D-1C188AF31EA9}|Madu\\Madu.csproj|solutionrelative:madu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|c:\\users\\aazze\\source\\repos\\praktiline-t-madu-uss-\\madu\\madu\\heliefektid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|solutionrelative:madu\\heliefektid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF598212-DFA0-87DD-5F5D-1C188AF31EA9}|Madu\\Madu.csproj|c:\\users\\opilane\\source\\repos\\praktiline-t-madu-uss-\\madu\\madu\\uss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF598212-DFA0-87DD-5F5D-1C188AF31EA9}|Madu\\Madu.csproj|solutionrelative:madu\\uss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|c:\\users\\aazze\\source\\repos\\praktiline-t-madu-uss-\\madu\\madu\\edetabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|solutionrelative:madu\\edetabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF598212-DFA0-87DD-5F5D-1C188AF31EA9}|Madu\\Madu.csproj|c:\\users\\opilane\\source\\repos\\praktiline-t-madu-uss-\\madu\\madu\\m\u00E4nguseaded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF598212-DFA0-87DD-5F5D-1C188AF31EA9}|Madu\\Madu.csproj|solutionrelative:madu\\m\u00E4nguseaded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|c:\\users\\aazze\\source\\repos\\praktiline-t-madu-uss-\\madu\\madu\\m\u00E4nguseaded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|solutionrelative:madu\\m\u00E4nguseaded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF598212-DFA0-87DD-5F5D-1C188AF31EA9}|Madu\\Madu.csproj|c:\\users\\opilane\\source\\repos\\praktiline-t-madu-uss-\\madu\\madu\\kaart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF598212-DFA0-87DD-5F5D-1C188AF31EA9}|Madu\\Madu.csproj|solutionrelative:madu\\kaart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|c:\\users\\aazze\\source\\repos\\praktiline-t-madu-uss-\\madu\\madu\\kaart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|solutionrelative:madu\\kaart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF598212-DFA0-87DD-5F5D-1C188AF31EA9}|Madu\\Madu.csproj|c:\\users\\opilane\\source\\repos\\praktiline-t-madu-uss-\\madu\\madu\\sund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF598212-DFA0-87DD-5F5D-1C188AF31EA9}|Madu\\Madu.csproj|solutionrelative:madu\\sund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|c:\\users\\aazze\\source\\repos\\praktiline-t-madu-uss-\\madu\\madu\\uss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|solutionrelative:madu\\uss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF598212-DFA0-87DD-5F5D-1C188AF31EA9}|Madu\\Madu.csproj|c:\\users\\opilane\\source\\repos\\praktiline-t-madu-uss-\\madu\\madu\\punkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF598212-DFA0-87DD-5F5D-1C188AF31EA9}|Madu\\Madu.csproj|solutionrelative:madu\\punkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|c:\\users\\aazze\\source\\repos\\praktiline-t-madu-uss-\\madu\\madu\\sund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|solutionrelative:madu\\sund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF598212-DFA0-87DD-5F5D-1C188AF31EA9}|Madu\\Madu.csproj|c:\\users\\opilane\\source\\repos\\praktiline-t-madu-uss-\\madu\\madu\\toit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF598212-DFA0-87DD-5F5D-1C188AF31EA9}|Madu\\Madu.csproj|solutionrelative:madu\\toit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|c:\\users\\aazze\\source\\repos\\praktiline-t-madu-uss-\\madu\\madu\\toit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|solutionrelative:madu\\toit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF598212-DFA0-87DD-5F5D-1C188AF31EA9}|Madu\\Madu.csproj|c:\\users\\opilane\\source\\repos\\praktiline-t-madu-uss-\\madu\\madu\\edetabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF598212-DFA0-87DD-5F5D-1C188AF31EA9}|Madu\\Madu.csproj|solutionrelative:madu\\edetabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|c:\\users\\aazze\\source\\repos\\praktiline-t-madu-uss-\\madu\\madu\\punkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5B557A8-EFBD-4A17-BEFE-151E0BDB1A89}|Madu\\Madu.csproj|solutionrelative:madu\\punkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF598212-DFA0-87DD-5F5D-1C188AF31EA9}|Madu\\Madu.csproj|c:\\users\\opilane\\source\\repos\\praktiline-t-madu-uss-\\madu\\madu\\heliefektid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF598212-DFA0-87DD-5F5D-1C188AF31EA9}|Madu\\Madu.csproj|solutionrelative:madu\\heliefektid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,15 +46,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 203,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 11,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Heliefektid.cs",
-              "DocumentMoniker": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Heliefektid.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Heliefektid.cs",
               "RelativeDocumentMoniker": "Madu\\Heliefektid.cs",
-              "ToolTip": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Heliefektid.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Heliefektid.cs",
               "RelativeToolTip": "Madu\\Heliefektid.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -63,89 +75,89 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Edetabel.cs",
-              "DocumentMoniker": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Edetabel.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Edetabel.cs",
               "RelativeDocumentMoniker": "Madu\\Edetabel.cs",
-              "ToolTip": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Edetabel.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Edetabel.cs",
               "RelativeToolTip": "Madu\\Edetabel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-03T02:14:07.194Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Kaart.cs",
-              "DocumentMoniker": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Kaart.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Kaart.cs",
               "RelativeDocumentMoniker": "Madu\\Kaart.cs",
-              "ToolTip": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Kaart.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Kaart.cs",
               "RelativeToolTip": "Madu\\Kaart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-03T02:12:35.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "M\u00E4nguSeaded.cs",
-              "DocumentMoniker": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\M\u00E4nguSeaded.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\M\u00E4nguSeaded.cs",
               "RelativeDocumentMoniker": "Madu\\M\u00E4nguSeaded.cs",
-              "ToolTip": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\M\u00E4nguSeaded.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\M\u00E4nguSeaded.cs",
               "RelativeToolTip": "Madu\\M\u00E4nguSeaded.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-03T02:10:48.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Toit.cs",
-              "DocumentMoniker": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Toit.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Toit.cs",
               "RelativeDocumentMoniker": "Madu\\Toit.cs",
-              "ToolTip": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Toit.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Toit.cs",
               "RelativeToolTip": "Madu\\Toit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-03T01:41:50.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Punkt.cs",
-              "DocumentMoniker": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Punkt.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Punkt.cs",
               "RelativeDocumentMoniker": "Madu\\Punkt.cs",
-              "ToolTip": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Punkt.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Punkt.cs",
               "RelativeToolTip": "Madu\\Punkt.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-03T01:27:00.639Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Uss.cs",
-              "DocumentMoniker": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Uss.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Uss.cs",
               "RelativeDocumentMoniker": "Madu\\Uss.cs",
-              "ToolTip": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Uss.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Uss.cs",
               "RelativeToolTip": "Madu\\Uss.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowDgAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-03T01:51:54.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Sund.cs",
-              "DocumentMoniker": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Sund.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Sund.cs",
               "RelativeDocumentMoniker": "Madu\\Sund.cs",
-              "ToolTip": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Sund.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Sund.cs",
               "RelativeToolTip": "Madu\\Sund.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -156,14 +168,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Program.cs",
               "RelativeDocumentMoniker": "Madu\\Program.cs",
-              "ToolTip": "C:\\Users\\aazze\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Program.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Praktiline-t-Madu-Uss-\\Madu\\Madu\\Program.cs",
               "RelativeToolTip": "Madu\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-03T01:24:01.423Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1881,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
