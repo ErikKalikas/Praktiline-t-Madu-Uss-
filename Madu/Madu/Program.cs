@@ -1,77 +1,176 @@
-﻿namespace Madu
+﻿using System;
+using System.Diagnostics;
+using System.Threading;
+
+namespace Madu
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            // 1. Mängu algus ja seadistamine
-            Console.WriteLine("Vali raskus (1-3): ");
-            int tase = int.Parse(Console.ReadLine());
+            Console.CursorVisible = false;
+
+            int tase = 1;
+            bool taseValitud = false;
+
+            while (!taseValitud)
+            {
+                Console.Clear();
+                Console.WriteLine("--- VALI RASKUSASTE ---");
+                Console.WriteLine(tase == 1 ? "> 1. Kerge" : "  1. Kerge");
+                Console.WriteLine(tase == 2 ? "> 2. Keskmine" : "  2. Keskmine");
+                Console.WriteLine(tase == 3 ? "> 3. Raske" : "  3. Raske");
+                Console.WriteLine("\nKasuta nooli (Ules/Alla) ja vajuta Enter...");
+
+                ConsoleKeyInfo klahv = Console.ReadKey(true);
+
+                if (klahv.Key == ConsoleKey.UpArrow || klahv.Key == ConsoleKey.W)
+                {
+                    tase--;
+                    if (tase < 1) tase = 3;
+                }
+                else if (klahv.Key == ConsoleKey.DownArrow || klahv.Key == ConsoleKey.S)
+                {
+                    tase++;
+                    if (tase > 3) tase = 1;
+                }
+                else if (klahv.Key == ConsoleKey.Enter)
+                {
+                    taseValitud = true;
+                }
+            }
+
+            Console.Clear();
+
             MänguSeaded seaded = new MänguSeaded(tase);
 
-            Console.SetWindowSize(seaded.Laius + 2, seaded.Kõrgus + 2);
-            Kaart kaart = new Kaart(seaded.Laius, seaded.Kõrgus);
-            Uss uss = new Uss(seaded.Laius / 2, seaded.Kõrgus / 2, 3);
-            Toit toit = new Toit(seaded.Laius, seaded.Kõrgus);
-            int skoor = 0;
+            Console.SetWindowSize(seaded.Laius + 5, seaded.Kõrgus + 5);
+            Console.SetBufferSize(seaded.Laius + 5, seaded.Kõrgus + 5);
 
+            Kaart kaart = new Kaart(seaded.Laius, seaded.Kõrgus);
             kaart.Joonista();
 
-            // 2. Mängu peatsükkel
-            while (true)
-            {
-                // ... sisendi lugemine ...
+            Uss uss = new Uss(seaded.Laius / 2, (seaded.Kõrgus / 2) + 1, 3);
+            Toit toit = new Toit(seaded.Laius, seaded.Kõrgus);
 
+            int skoor = 0;
+            bool mängKäib = true;
+            int sekundiTaimer = 10;
+
+            Stopwatch taimer = new Stopwatch();
+            Stopwatch sekundiMootja = new Stopwatch();
+
+            taimer.Start();
+            sekundiMootja.Start();
+
+            Suund uusSuund = uss.PraeguneSuund;
+
+            while (mängKäib)
+            {
                 if (Console.KeyAvailable)
                 {
                     ConsoleKeyInfo klahv = Console.ReadKey(true);
 
-                    // Muudame suunda, aga väldime tagurdamist
-                    if (klahv.Key == ConsoleKey.UpArrow && uss.PraeguneSuund != Suund.Alla)
-                        uss.PraeguneSuund = Suund.Üles;
-                    else if (klahv.Key == ConsoleKey.DownArrow && uss.PraeguneSuund != Suund.Üles)
-                        uss.PraeguneSuund = Suund.Alla;
-                    else if (klahv.Key == ConsoleKey.LeftArrow && uss.PraeguneSuund != Suund.Paremale)
-                        uss.PraeguneSuund = Suund.Vasakule;
-                    else if (klahv.Key == ConsoleKey.RightArrow && uss.PraeguneSuund != Suund.Vasakule)
-                        uss.PraeguneSuund = Suund.Paremale;
+                    switch (klahv.Key)
+                    {
+                        case ConsoleKey.UpArrow:
+                        case ConsoleKey.W:
+                            if (uss.PraeguneSuund != Suund.Alla) uusSuund = Suund.Üles;
+                            break;
+                        case ConsoleKey.DownArrow:
+                        case ConsoleKey.S:
+                            if (uss.PraeguneSuund != Suund.Üles) uusSuund = Suund.Alla;
+                            break;
+                        case ConsoleKey.LeftArrow:
+                        case ConsoleKey.A:
+                            if (uss.PraeguneSuund != Suund.Paremale) uusSuund = Suund.Vasakule;
+                            break;
+                        case ConsoleKey.RightArrow:
+                        case ConsoleKey.D:
+                            if (uss.PraeguneSuund != Suund.Vasakule) uusSuund = Suund.Paremale;
+                            break;
+                    }
+
+                    while (Console.KeyAvailable) { Console.ReadKey(true); }
                 }
 
-                uss.Liigu();
-                Punkt pea = uss.HangiPea();
-
-                // Kokkupõrge seinaga (takistusega)
-                if (kaart.Takistused.Any(t => t.X == pea.X && t.Y == pea.Y))
+                if (sekundiMootja.ElapsedMilliseconds >= 1000)
                 {
-                    Heliefektid.MängiKaotust();
-                    break;
+                    sekundiMootja.Restart();
+                    sekundiTaimer--;
+
+                    if (sekundiTaimer < 0)
+                    {
+                        sekundiTaimer = 10;
+                        toit.LooUusBonus();
+                    }
+
+                    kaart.UuendaTaimer(sekundiTaimer);
                 }
 
-                
-                if (uss.KasPõrkasKokkuEndaga())
+                if (taimer.ElapsedMilliseconds >= seaded.KiirusMS)
                 {
-                    Heliefektid.MängiKaotust();
-                    break;
+                    taimer.Restart();
+
+                    uss.PraeguneSuund = uusSuund;
+                    uss.Liigu();
+
+                    Punkt pea = uss.HangiPea();
+
+                    if (pea.X == toit.Asukoht.X && pea.Y == toit.Asukoht.Y)
+                    {
+                        uss.Kasva();
+                        skoor += 10;
+                        kaart.UuendaSkoor(skoor);
+                        Heliefektid.MängiSöömist();
+                        toit.LooUusToit();
+                    }
+                    else if (toit.KasBonusOnAktiivne && pea.X == toit.BonusAsukoht.X && pea.Y == toit.BonusAsukoht.Y)
+                    {
+                        uss.Kasva();
+                        skoor += 20;
+                        kaart.UuendaSkoor(skoor);
+                        Heliefektid.MängiSöömist();
+                        toit.KustutaBonus();
+                    }
+
+                    foreach (var takistus in kaart.Takistused)
+                    {
+                        if (pea.X == takistus.X && pea.Y == takistus.Y)
+                        {
+                            mängKäib = false;
+                            break;
+                        }
+                    }
+
+                    if (uss.KasPõrkasKokkuEndaga())
+                    {
+                        mängKäib = false;
+                    }
                 }
 
-                // Toidu söömine
-                if (pea.X == toit.Asukoht.X && pea.Y == toit.Asukoht.Y)
-                {
-                    skoor += 10;
-                    uss.Kasva();
-                    toit.LooUusToit();
-                    Heliefektid.MängiSöömist();
-                }
-
-                Thread.Sleep(seaded.KiirusMS);
+                Thread.Sleep(5);
             }
 
-            // 3. Pärast mängu lõppu
+            Heliefektid.MängiKaotust();
+
             Console.Clear();
-            Console.Write("Mäng läbi! Sisesta oma nimi: ");
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("MÄNG LÄBI!");
+            Console.ResetColor();
+            Console.WriteLine($"Sinu skoor: {skoor}");
+
+            Console.Write("Sisesta oma nimi edetabeli jaoks: ");
             string nimi = Console.ReadLine();
-            Edetabel.Salvesta(nimi, skoor);
+
+            if (!string.IsNullOrEmpty(nimi))
+            {
+                Edetabel.Salvesta(nimi, skoor);
+            }
+
             Edetabel.KuvaEdetabel();
+            Console.WriteLine("\nVajuta mis tahes klahvi lõpetamiseks...");
+            Console.ReadKey();
         }
     }
 }
