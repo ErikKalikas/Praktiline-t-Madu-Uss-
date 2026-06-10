@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Madu
 {
+    //Умеет нарисовать и стереть себя в консоли
     class Punkt
     {
         public int X { get; set; }

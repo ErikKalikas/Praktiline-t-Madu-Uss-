@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Madu
 {
+    //играет звуки
     static class Heliefektid
     {
         public static void MängiSöömist()

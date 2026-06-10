@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Madu
 {
+    //сохраняет результат в файл
     static class Edetabel
     {
         private static string failiTee = "skoorid.txt";

@@ -1,5 +1,6 @@
 ﻿namespace Madu
 {
+    //управляет телом змеи
     class Uss
     {
         private List<Punkt> keha = new List<Punkt>();

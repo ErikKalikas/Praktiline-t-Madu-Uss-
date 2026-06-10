@@ -1,5 +1,6 @@
 ﻿namespace Madu
 {
+    //хранит параметры трёх уровней сложности
     class MänguSeaded
     {
         public int Laius { get; set; }
